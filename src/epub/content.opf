@@ -45,9 +45,10 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008111543</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A doctor, jealous of his brother’s sudden wealth, starts questioning its provenance.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The Roland family are back together again of a sorts, the sons Pierre and Jean having returned home in the lull between the completion of their studies and the start of their professional careers. This peace though is broken when the younger brother Jean is left a life-changing inheritance by old family friend Maréchel, and Pierre is left with nothing. Despite the happiness in the rest of the family, unanswered questions start gnawing at Pierre.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Pierre and Jean&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/guy-de-maupassant"&gt;Guy de Maupassant’s&lt;/a&gt; shortest novel, and is often acclaimed as his greatest. The setting for the novel is the scenery of de Maupassant’s childhood, and it is, accordingly, richly described. It was serialized in &lt;i lang="fr"&gt;Nouvelle Revue&lt;/i&gt; in 1887 before being published as a complete novel in 1888; this edition is based on the 1902 translation by Clara Bell.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3804</dc:source>
