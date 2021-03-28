@@ -61,19 +61,19 @@
 		<meta property="file-as" refines="#author">de Maupassant, Guy</meta>
 		<meta property="se:name.person.full-name" refines="#author">Henri René Albert Guy de Maupassant</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Guy_de_Maupassant</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79069916</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79069916</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Clara Bell</dc:contributor>
 		<meta property="file-as" refines="#translator">Bell, Clara</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Clara_Bell</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">https://id.loc.gov/authorities/names/no93013158</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no93013158</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Claude Monet</dc:contributor>
 		<meta property="file-as" refines="#artist">Monet, Claude</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Oscar-Claude Monet</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Claude_Monet</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n79055527</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79055527</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Dagny</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Dagny</meta>
