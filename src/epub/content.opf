@@ -57,7 +57,7 @@
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pierre_and_Jean</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/guy-de-maupassant_pierre-and-jean_clara-bell</meta>
 		<dc:creator id="author">Guy de Maupassant</dc:creator>
-		<meta property="file-as" refines="#author">de Maupassant, Guy</meta>
+		<meta property="file-as" refines="#author">Maupassant, Guy de</meta>
 		<meta property="se:name.person.full-name" refines="#author">Henri René Albert Guy de Maupassant</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Guy_de_Maupassant</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79069916</meta>
