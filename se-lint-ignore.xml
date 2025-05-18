@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="preface.xhtml">
+		<ignore>
+			<code>y-003</code>
+			<reason>Correct as per the scans.</reason>
+		</ignore>
+		<ignore>
+			<code>y-022</code>
+			<reason>Correct as per the scans.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
