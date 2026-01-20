@@ -53,7 +53,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3804</dc:source>
 		<dc:source>https://archive.org/details/pierrej00maup</dc:source>
-		<meta property="se:word-count">50987</meta>
+		<meta property="se:word-count">50756</meta>
 		<meta property="se:reading-ease.flesch">69.41</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pierre_and_Jean</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/guy-de-maupassant_pierre-and-jean_clara-bell</meta>
