@@ -2,9 +2,11 @@
 <se-lint-ignore>
 	<file path="preface.xhtml">
 		<ignore code="y-003">
+			<line>45</line>
 			<reason>Correct as per the scans.</reason>
 		</ignore>
 		<ignore code="y-022">
+			<line>79</line>
 			<reason>Correct as per the scans.</reason>
 		</ignore>
 	</file>
