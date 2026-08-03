@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/guy-de-maupassant/pierre-and-jean/clara-bell</dc:identifier>
 		<dc:date>2020-10-11T18:16:07Z</dc:date>
@@ -46,11 +46,11 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008111543</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A doctor, jealous of his brother’s sudden wealth, starts questioning its provenance.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A doctor, jealous of his brother’s sudden wealth, starts questioning its provenance.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The sons of the Roland family, Pierre and Jean, return home in the lull between the completion of their studies and the start of their professional careers, bringing the Roland family back together again, in a way. This peace, though, is broken when the younger brother Jean is left a life-changing inheritance by Maréchel, an old family friend—and Pierre is left with nothing. Despite the happiness in the rest of the family, unanswered questions start gnawing at Pierre.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Pierre and Jean&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/guy-de-maupassant"&gt;Guy de Maupassant’s&lt;/a&gt; shortest novel, and is often acclaimed as his greatest. The setting for the novel is the scenery of de Maupassant’s childhood, and it is, accordingly, richly described. It was serialized in &lt;i lang="fr"&gt;Nouvelle Revue&lt;/i&gt; in 1887 before being published as a complete novel in 1888; this edition is based on the 1902 translation by Clara Bell.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3804</dc:source>
 		<dc:source>https://archive.org/details/pierrej00maup</dc:source>
